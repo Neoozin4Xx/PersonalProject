@@ -124,7 +124,7 @@ const DragonBallLegends = () => {
               <div className="relative">
                 <div className="w-full h-96 lg:h-[500px] relative overflow-hidden rounded-2xl shadow-2xl transform hover:scale-105 transition-transform duration-500">
                   <img 
-                    src="https://images.unsplash.com/photo-1586953208448-b95a79798f07?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+                    src="https://i1.sndcdn.com/artworks-R2yAqXwK1yHxtdFN-tgAjyg-t500x500.jpg"
                     alt="Gaming setup with plants and cozy atmosphere"
                     className="w-full h-full object-cover filter hover:brightness-110 transition-all duration-500"
                   />
@@ -151,7 +151,7 @@ const DragonBallLegends = () => {
               <div className="space-y-4 group cursor-pointer">
                 <div className="h-48 relative overflow-hidden rounded-xl shadow-lg transform group-hover:scale-105 transition-transform duration-300">
                   <img 
-                    src="https://images.unsplash.com/photo-1586953208448-b95a79798f07?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+                    src="https://en.dragon-ball-official.com/dragonball/jp/news/2022/03/GokuSSGSSKAIOU_468_UL.jpg?_=1752268860"
                     alt="Character Rankings"
                     className="w-full h-full object-cover filter group-hover:brightness-110 transition-all duration-300"
                   />
@@ -175,7 +175,7 @@ const DragonBallLegends = () => {
               <div className="space-y-4 group cursor-pointer">
                 <div className="h-48 relative overflow-hidden rounded-xl shadow-lg transform group-hover:scale-105 transition-transform duration-300">
                   <img 
-                    src="https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+                    src="https://cdn.ggmax.com.br/images/c06dbf38eefb77f3e705b71354e2cde8.sm.jpg"
                     alt="Character Tips"
                     className="w-full h-full object-cover filter group-hover:brightness-110 transition-all duration-300"
                   />
@@ -199,7 +199,7 @@ const DragonBallLegends = () => {
               <div className="space-y-4 group cursor-pointer">
                 <div className="h-48 relative overflow-hidden rounded-xl shadow-lg transform group-hover:scale-105 transition-transform duration-300">
                   <img 
-                    src="https://images.unsplash.com/photo-1556075798-4825dfaaf498?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+                    src="https://i1.sndcdn.com/artworks-yeNLFZZyK8lbeRnI-KKo1hw-t500x500.jpg"
                     alt="Color Coded Ranks"
                     className="w-full h-full object-cover filter group-hover:brightness-110 transition-all duration-300"
                   />
@@ -238,8 +238,7 @@ const DragonBallLegends = () => {
               <div className="space-y-4 group cursor-pointer">
                 <div className="h-48 relative overflow-hidden rounded-2xl shadow-lg transform group-hover:scale-105 transition-transform duration-300">
                   <img 
-                    src="https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
-                    alt="Team Building"
+                    src="https://i.ytimg.com/vi/tzLXPkAaHo4/maxresdefault.jpg"
                     className="w-full h-full object-cover filter group-hover:brightness-110 transition-all duration-300"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
@@ -262,7 +261,7 @@ const DragonBallLegends = () => {
               <div className="space-y-4 group cursor-pointer">
                 <div className="h-48 relative overflow-hidden rounded-2xl shadow-lg transform group-hover:scale-105 transition-transform duration-300">
                   <img 
-                    src="https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+                    src="https://i.ytimg.com/vi/hloHGPKXSgU/maxresdefault.jpg"
                     alt="Advanced Tactics"
                     className="w-full h-full object-cover filter group-hover:brightness-110 transition-all duration-300"
                   />
@@ -286,7 +285,7 @@ const DragonBallLegends = () => {
               <div className="space-y-4 group cursor-pointer">
                 <div className="h-48 relative overflow-hidden rounded-2xl shadow-lg transform group-hover:scale-105 transition-transform duration-300">
                   <img 
-                    src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+                    src="https://i.ytimg.com/vi/AknQc4y2y5o/maxresdefault.jpg"
                     alt="Beginner Guide"
                     className="w-full h-full object-cover filter group-hover:brightness-110 transition-all duration-300"
                   />

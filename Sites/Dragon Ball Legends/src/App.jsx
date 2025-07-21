@@ -20,7 +20,9 @@ const DragonBallLegends = () => {
         {/* Header */}
         <header className={`fixed top-0 w-full z-50 py-4 transition-all duration-300 ${scrollY > 50 ? 'bg-black/80 backdrop-blur-md border-b border-gray-800' : 'bg-transparent'}`}>
           <div className="max-w-7xl mx-auto px-8 flex justify-between items-center">
-            <div className="text-xl font-bold italic tracking-wide hover:text-yellow-400 transition-colors duration-300" style={{fontFamily: 'Inter, sans-serif'}}>Logo</div>
+            <div className="text-xl font-bold italic tracking-wide hover:text-yellow-400 transition-colors duration-300" style={{fontFamily: 'Inter, sans-serif'}}><img src="/src/image/Made with insMind-Goku.png" alt="" 
+            className="w-10 h-10 hover:animate-bounce transition-transform hover:scale-110"
+            /></div>
             <nav className="hidden md:flex space-x-11">
               <a href="#" className="text-sm font-medium hover:text-yellow-400 transition-all duration-300 relative group" style={{fontFamily: 'Inter, sans-serif'}}>
                 Home
@@ -76,7 +78,7 @@ const DragonBallLegends = () => {
             <div className="relative mt-25">
               <div className="w-full h-96 lg:h-[500px] xl:h-[600px] relative overflow-hidden rounded-lg shadow-2xl transform hover:scale-105 transition-transform duration-500">
                 <img 
-                  src="https://i.ytimg.com/vi/D85UMZmjqWQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC2o07mf1fYl3ydDL3XxYrN87vYtg"
+                  src="https://m.media-amazon.com/images/I/A1zhZkxNt3L._UF894,1000_QL80_.jpg"
                   alt="Dragon Ball Legends gameplay"
                   className="w-full h-full object-cover filter hover:brightness-110 transition-all duration-500"
                 />
@@ -398,9 +400,9 @@ const DragonBallLegends = () => {
           <div className="max-w-7xl mx-auto px-8">
             <div className="text-center space-y-8">
               {/* Logo */}
-              <div className="text-2xl font-bold italic tracking-wide hover:text-yellow-400 transition-colors duration-300 cursor-pointer" style={{fontFamily: 'Inter, sans-serif'}}>
-                Logo
-              </div>
+            <div className="text-2xl font-bold italic tracking-wide hover:text-yellow-400 transition-colors duration-300 flex justify-center items-center" style={{fontFamily: 'Inter, sans-serif'}}>
+            <img src="/src/image/Made with insMind-Goku.png" alt="" />
+            </div>
               
               {/* Navigation Links */}
               <nav className="flex flex-wrap justify-center gap-8 text-sm">
